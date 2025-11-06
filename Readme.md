@@ -1,11 +1,21 @@
-### ***Warning***
-- This project is currently in experiment
-- This classifier does not guarantee the actual status of your image or video
-- The definition of "Which is normal, which is abnormal" is not opend in this page
-- Please do not use this on your product(In that case, our research group is not responsible)
+## ***Cybercop***
+- This is the research project of IBDLAB for scam video detection 
+- This repository contains past hisory and current research
+- Now the repository has been moved from public to private github
 
-### ***How to***
-- Please install ultralytics in your test machine
-- To use GPU, install pytorch for GPU support first and next install ultralytics
-- Prepare your video and copy the full path(absolute) or relative path of them
-- If the video's running time is too long then you can increase frame_interval so that you can skip test of the frames between interval
+## ***IMPORTANT WARNING***
+- NEVER store OpenAI key into source code directory
+- NEVER commit configuration.json which contains OpenAI key
+
+## ***Past research***
+### Image classfier
+- Period: 20250901 ~ 20251015
+- Related directory: 00.image_classifier_deprecated
+
+### VLM prompt correction loop
+- Period: 20251016 ~ 20251029
+- Related directory: 01.vlm_prompt_correction
+
+### VLM initial prompt optimization
+- Period: 20251030 ~ current
+- Related directory: 02.vlm_initial_prompt
