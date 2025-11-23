@@ -1,0 +1,539 @@
+/home/ubuntu/cybercop/video_20251104/normal/0025.mp4
+The `seen_tokens` attribute is deprecated and will be removed in v4.41. Use the `cache_position` model input instead.
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.92,
+  "risk": "high",
+  "evidence": ["우버 택시 50% 헤택", "그시절택시요금"],
+  "explanation": "The video contains strong scam signals, such as the promise of a significant profit (50% return) and references to outdated taxi fares ('그시절택시요금'). These elements suggest fraudulent intent, leading to a high-risk scam classification."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0011.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["할바하게 되면 하는 것", "이어폰 빼고", "결제카드는", "이걸로 해주세요"],
+  "explanation": "The video appears to be a humorous or instructional guide on how not to work as an employee, with no direct requests for money or personal data. The content is light-hearted and does not contain strong scam signals."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0024.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["New product innovation", "Innovative solution for cereal consumption"],
+  "explanation": "The video describes a new, innovative way to consume cereal with milk in a cup-like container without spilling or making a mess. The focus is on the convenience and novelty of this invention rather than any direct solicitation for money or data, indicating normal content."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0004.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.25,
+  "risk": "low",
+  "evidence": ["Must buy before [date] statements", "Suspicious 'install app/site to earn' claims"],
+  "explanation": "The video appears educational, focusing on a job or work-related topic without any direct requests for money, data, or external contact. The presence of moderate signals like urgency and suspicious instructions suggests caution but does not confirm scam intent."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0001.mp4
+                                                        
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["2025년 최저임금 인상 확정", "주휴스담"],
+  "explanation": "The video discusses the minimum wage increase and mentions part-time work, but does not contain any direct requests for payment or personal data. The content appears to be informative rather than promotional, indicating a low risk of being scam-intended."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0006.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.35,
+  "risk": "low",
+  "evidence": ["50대 근판리얼후기"],
+  "explanation": "The video description contains a personal story about job experiences and does not include any strong or moderate signals of scam intent, such as profit guarantees, direct requests for payment, external contact funnels, or authority impersonation."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0016.mp4
+                                                        
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.15,
+  "risk": "low",
+  "evidence": ["Rubik's cube solving", "casual interaction"],
+  "explanation": "The video shows a person casually solving a Rubik's cube, with no explicit promises of profit or requests for personal data. The content appears educational and focused on demonstrating skill rather than inducing financial gain."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0005.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.15,
+  "risk": "low",
+  "evidence": ["No explicit requests for payment or data", "No direct promises of guaranteed profits"],
+  "explanation": "The video appears to be a normal interaction in a kitchen setting, with no clear indicators of scam intent such as profit guarantees, external contact requests, or personal data demands."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0018.mp4
+                                                        
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["한번씩만"], 
+  "explanation": "The video description does not contain any explicit promises of guaranteed profits, direct requests for payment or personal data, external contact funnels (like QR codes), authority impersonation, illegal activities, or suspicious reward schemes that would typically indicate a scam. The content seems to be more informative and educational in nature."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0023.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["non-stick coating", "multi-cookpan"],
+  "explanation": "The video describes the features of a non-stick pan and multi-cookpan, focusing on their benefits for cooking without oil splatter or sticking. There are no explicit promises of profit, external contact requests, or other strong scam indicators present."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0007.mp4
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.15,
+  "risk": "low",
+  "evidence": ["7일간 단기알바 만으로 100만원 벌기"],
+  "explanation": "The video description does not contain any strong or moderate signals of scam activity, such as guaranteed profits, direct requests for payment, external contact funnels (like QR codes), authority impersonation, illegal activities, or reward schemes. The content appears to be about a personal experience with short-term work and financial outcomes."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0014.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["Guaranteed or outsized returns/profits", "Direct request for payment/deposit/transfer or personal data/credentials"],
+  "explanation": "The video describes a process of making drinks, with no explicit promises of profit or direct requests for money or credentials. The content appears to be educational about drink preparation rather than promoting any scam."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0021.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["Certification of qualification", "Online study and exam"],
+  "explanation": "The video describes a certification process for a professional role, emphasizing free online education and exams with no direct requests for payment or personal data. The focus is on educational content rather than inducement or profit guarantees."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0027.mp4
+                                                                    
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.9,
+  "risk": "low",
+  "evidence": ["280 calorie ramen", "250 calorie Boston cream", "1391 calorie tonkatsu and ramen"],
+  "explanation": "The video shows a person eating various meals, including ramen with different toppings like kimchi and pork cutlet, as well as desserts like Boston cream and ice cream. The descriptions of the food items are straightforward without any exaggerated claims or promises for guaranteed profits. This suggests that the content is likely educational or informative rather than scam-intended."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0012.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.35,
+  "risk": "low",
+  "evidence": ["이托리들이", "이거 그iddy한 데요"],
+  "explanation": "The video features a humorous interaction between employees and customers, with no explicit promises of profit or requests for personal data. The content appears to be light-hearted and educational rather than promotional or scam-related."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0010.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.25,
+  "risk": "low",
+  "evidence": ["고객을 만족시켜야 합니다"],
+  "explanation": "The video description contains a message about customer satisfaction, which is common in retail and service contexts. There are no explicit promises of guaranteed profits or direct requests for personal data or payment methods that would indicate scam activity. The content appears to be more informative or educational rather than promotional or solicitive."
+} 
+
+This classification considers the absence of strong indicators typically associated with scams (such as profit guarantees or external contact requests) while noting an emphasis on customer satisfaction, suggesting it may have normal informational intent without inducing financial transactions or personal information sharing.
+/home/ubuntu/cybercop/video_20251104/normal/0015.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.25,
+  "risk": "low",
+  "evidence": ["T1 x Speak"],
+  "explanation": "The video features a collaboration between T1 and the Speak app, which is likely an educational or promotional content rather than a scam. The lack of direct profit promises, payment requests, external contact funnels, or other strong scam indicators suggests this is normal non-scam content."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0003.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.15,
+  "risk": "low",
+  "evidence": ["No explicit requests for payment or data", "No direct promises of guaranteed profits"],
+  "explanation": "The video appears to be a humorous skit from 'SNL Korea' discussing driving licenses and does not contain any strong indicators of scam activity such as profit guarantees, external contact funnels, or personal data requests."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0002.mp4
+                                                        
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.35,
+  "risk": "low",
+  "evidence": ["MBTI bill", "INFP"],
+  "explanation": "The video appears to be an educational or informative piece about part-time jobs for INFPs, as indicated by the text and visuals. It does not contain any strong indicators of scam activity such as promises of guaranteed profits, requests for personal data, payment details, or external contact methods."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0022.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["NEW 다이슨 슈퍼소닉 r", "다이스의 가장 가벼고, 가장 경력한? 해어트라이어"],
+  "explanation": "The video describes a new Dyson product without any explicit promises of profit or direct requests for payment. The focus is on the features and design of the hair dryer, which suggests normal content rather than scam intent."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0019.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["End of day liquid nitrogen dumps", "Liquid nitrogen is used for skin treatments"],
+  "explanation": "The video describes the use of liquid nitrogen in a clinical setting, explaining its application and disposal process without any explicit promises or requests for payment. The content appears to be educational rather than promotional."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0008.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.15,
+  "risk": "low",
+  "evidence": ["CURPANG ALBA", "CURPANG ALBA"],
+  "explanation": "The video appears to be a personal account of working at CURPANG ALBA, detailing the experience and challenges faced without any explicit promises or requests for money or data. The content seems educational or reporting in nature with no inducement or external contact solicitation."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0026.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.92,
+  "risk": "high",
+  "evidence": ["우버 택시 50% 헤택", "그시절택시요금"],
+  "explanation": "The video contains strong scam signals, such as the promise of a significant profit (50% return) and references to outdated taxi fares ('그시절택시요금'). These elements suggest fraudulent intent, leading to a high-risk scam classification."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0000.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.25,
+  "risk": "low",
+  "evidence": ["무자로 보내 주셔~"],
+  "explanation": "The video description contains a request to send information via messenger, which is common in educational or informational contexts rather than direct scamming attempts. The lack of explicit profit promises, payment requests, external contact funnels, or other strong scam indicators suggests this content is likely normal and not intended for fraudulent purposes."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0009.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.15,
+  "risk": "low",
+  "evidence": ["Coupaing delivery", "Scanning packages", "Vending machine"],
+  "explanation": "The video shows a typical day at an e-commerce warehouse, including package scanning and using a vending machine for snacks or drinks. There are no explicit promises of profit, external contact requests, or other strong scam indicators present."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0013.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["banana milkshake", "Compose Coffee cup"],
+  "explanation": "The video shows the preparation of a banana milkshake with no explicit promises or requests for payment, making it normal content without strong scam indicators."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0020.mp4
+                                                        
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["Hangang Bus", "Grand Opening"],
+  "explanation": "The video describes a public transportation service, Hangang Bus, with no explicit promises of profit or requests for personal data. The content appears to be informative and promotional rather than soliciting money or inducing action that would classify it as scam."
+}
+/home/ubuntu/cybercop/video_20251104/normal/0017.mp4
+                                                        
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.15,
+  "risk": "low",
+  "evidence": ["이대생이 시험지를 반대로 집어두는 이유"],
+  "explanation": "The video provides a step-by-step guide on how to fold an exam paper, which is likely intended for educational purposes rather than promoting any scam or fraudulent activity."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0025.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.35,
+  "risk": "low",
+  "evidence": ["recommendation code", "app usage"],
+  "explanation": "The video shows a person discussing an app and mentioning a recommendation code, but there are no explicit promises of profit or direct requests for payment. The context seems educational rather than promotional, indicating low risk."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0011.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.92,
+  "risk": "high",
+  "evidence": ["银行账号", "能听懂我说话吧"],
+  "explanation": "The video contains a direct request for bank account information and includes phrases that suggest understanding the speaker, which are common in scam attempts to build trust. The explicit mention of needing specific details like an account number indicates fraudulent intent."
+} 
+
+This classification is based on the strong signals present in the description: requests for personal financial information (bank accounts) and language used to establish rapport or trustworthiness, both typical indicators of scams.
+/home/ubuntu/cybercop/video_20251104/abnormal/0034.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.95,
+  "risk": "high",
+  "evidence": ["guaranteed or outsized returns", "direct request for payment/deposit/transfer"],
+  "explanation": "The video contains strong indicators of a scam, such as guaranteed profit claims and external contact through QR codes and links to platforms like KakaoTalk. These elements suggest fraudulent intent, leading to a high-risk classification."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0029.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.92,
+  "risk": "high",
+  "evidence": ["100% guaranteed profit", "external contact via Kakao"],
+  "explanation": "The video contains strong scam signals such as the promise of '100% guaranteed profit' and an external contact method (Kakao), which are clear indicators of fraudulent intent, leading to a high-risk scam classification."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0033.mp4
+                                                                      
+[MiniCPM] output: {"is_scam": true, "confidence": 0.95, "risk": "high", "evidence": ["300% guaranteed profit", "QR code to join a Telegram group"], "explanation": "The description contains explicit profit guarantees and directs users to an external Telegram contact, both clear scam indicators. These signals strongly suggest fraudulent intent, leading to a high-risk scam classification."}
+/home/ubuntu/cybercop/video_20251104/abnormal/0004.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["Various sandals displayed", "Handbag shown"],
+  "explanation": "The video shows a display of various sandals and handbags, with no explicit promises or requests for payment or personal data visible. The presence of an external contact method (QR code) suggests some level of engagement but does not indicate scam intent without further context on the nature of that interaction."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0035.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.15,
+  "risk": "low",
+  "evidence": ["10월 전에는 꼭 사라", "보통주 (06★★★) 현제가: 1400 최고가: 32000"],
+  "explanation": "The video description contains typical stock market advice and does not show any strong indicators of scam, such as guaranteed profits or external contact requests. The content appears to be educational rather than promotional."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0001.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.92,
+  "risk": "high",
+  "evidence": ["ohoo nasda injeong", "6月14일"],
+  "explanation": "The video contains strong scam signals such as the mention of 'ohoo nasda injeong' and a specific date, which are indicative of fraudulent activities. The presence of external contact methods like Kakao and Telegram further supports this classification."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0006.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.85,
+  "risk": "high",
+  "evidence": ["50만 원씩", "아르바이트"],
+  "explanation": "The video description mentions a digital job that promises to pay 500,000 won each and directs viewers to an external contact (a website), which are strong indicators of fraudulent activity. The explicit mention of payment details and the request for action suggest it is intended as a scam."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0016.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.35,
+  "risk": "low",
+  "evidence": ["2,500,000"],
+  "explanation": "The video contains a large number '2,500,000' displayed prominently on the screen but lacks any explicit promises of profit or direct requests for payment or personal data. The absence of strong signals such as guaranteed returns, external contact funnels, or reward schemes suggests that it is not scam-intended."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0005.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.35,
+  "risk": "low",
+  "evidence": ["가상화폐 구매대행 모집", "한 달이면 마음에 드는 차를 살 수 있습니다."],
+  "explanation": "The video describes a cryptocurrency purchase agency and mentions the potential to buy a car in one month, which seems educational rather than promotional or scammy. There are no strong indicators of fraudulent intent such as guaranteed profits or requests for personal data."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0018.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.25,
+  "risk": "low",
+  "evidence": ["다음message"],
+  "explanation": "The video description contains a message from a user, but there are no strong indicators of scam activity such as guaranteed profits or requests for personal data. The content appears to be normal and educational in nature."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0007.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["사람들에게 공과 희망을", "불어 놓아주는 사이비 교수"],
+  "explanation": "The video shows a demonstration of self-defense techniques, which is an educational activity rather than a scam. The presence of flags and the context suggest it's part of a training or awareness session."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0014.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.92,
+  "risk": "high",
+  "evidence": ["guaranteed or outsized returns/profits", "direct request for payment/deposit/transfer or personal data/credentials"],
+  "explanation": "The video description contains strong signals of scam intent, such as guaranteed profit claims and requests to provide information via a link. These elements indicate fraudulent activity with high risk."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0031.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.35,
+  "risk": "low",
+  "evidence": ["아이디Patrick", "게임성공추천"],
+  "explanation": "The description contains phrases like '아이디Patrick' and '게임성공추천', which suggest a recommendation or suggestion for gaming success, but there are no strong indicators of scam such as guaranteed profits, direct requests for personal data, or external contact methods."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0012.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["Gucci brand", "product details"],
+  "explanation": "The video appears to be a product showcase for jeans, featuring detailed views of the item and its branding without any explicit promises or requests that would indicate scam intent. The risk is low due to the absence of strong indicators typically associated with scams."
+} 
+
+This classification considers the lack of direct financial inducements, external contact solicitation, or guarantees commonly found in scam content.
+/home/ubuntu/cybercop/video_20251104/abnormal/0010.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.92,
+  "risk": "high",
+  "evidence": ["guaranteed return", "external contact"],
+  "explanation": "The video shows a guaranteed high return on investment and mentions an external contact method (Kakao), which are strong indicators of a scam. The presence of these elements suggests fraudulent intent, leading to a high-risk classification."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0003.mp4
+chunk:   0%|          | 0/122 [00:00<?, ?it/s, now=None]Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/minicpm/lib/python3.10/site-packages/moviepy/audio/io/readers.py", line 193, in get_frame
+    result[in_time] = self.buffer[indices]
+IndexError: index -53859 is out of bounds for axis 0 with size 46142
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/tmp/ipykernel_147055/1580517910.py", line 131, in <module>
+    prompts = auto_loop(
+  File "/tmp/ipykernel_147055/1580517910.py", line 95, in auto_loop
+    output = run_minicpm(video_path, prompt, model, tokenizer)
+  File "/tmp/ipykernel_147055/1580517910.py", line 41, in run_minicpm
+    contents = get_video_chunk_content(video_path)
+  File "/tmp/ipykernel_147055/1580517910.py", line 22, in get_video_chunk_content
+    video.audio.write_audiofile(temp_audio_file_path, codec="pcm_s16le", fps=16000)
+  File "<decorator-gen-67>", line 2, in write_audiofile
+  File "/home/ubuntu/anaconda3/envs/minicpm/lib/python3.10/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "/home/ubuntu/anaconda3/envs/minicpm/lib/python3.10/site-packages/moviepy/audio/AudioClip.py", line 206, in write_audiofile
+    return ffmpeg_audiowrite(self, filename, fps, nbytes, buffersize,
+  File "<decorator-gen-31>", line 2, in ffmpeg_audiowrite
+  File "/home/ubuntu/anaconda3/envs/minicpm/lib/python3.10/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "/home/ubuntu/anaconda3/envs/minicpm/lib/python3.10/site-packages/moviepy/audio/io/ffmpeg_audiowriter.py", line 166, in ffmpeg_audiowrite
+    for chunk in clip.iter_chunks(chunksize=buffersize,
+  File "/home/ubuntu/anaconda3/envs/minicpm/lib/python3.10/site-packages/moviepy/audio/AudioClip.py", line 85, in iter_chunks
+    yield self.to_soundarray(tt, nbytes=nbytes, quantize=quantize,
+  File "<decorator-gen-66>", line 2, in to_soundarray
+  File "/home/ubuntu/anaconda3/envs/minicpm/lib/python3.10/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "/home/ubuntu/anaconda3/envs/minicpm/lib/python3.10/site-packages/moviepy/audio/AudioClip.py", line 127, in to_soundarray
+    snd_array = self.get_frame(tt)
+  File "<decorator-gen-33>", line 2, in get_frame
+  File "/home/ubuntu/anaconda3/envs/minicpm/lib/python3.10/site-packages/moviepy/decorators.py", line 89, in wrapper
+    return f(*new_a, **new_kw)
+  File "/home/ubuntu/anaconda3/envs/minicpm/lib/python3.10/site-packages/moviepy/Clip.py", line 93, in get_frame
+    return self.make_frame(t)
+  File "/home/ubuntu/anaconda3/envs/minicpm/lib/python3.10/site-packages/moviepy/audio/io/AudioFileClip.py", line 77, in <lambda>
+    self.make_frame = lambda t: self.reader.get_frame(t)
+  File "/home/ubuntu/anaconda3/envs/minicpm/lib/python3.10/site-packages/moviepy/audio/io/readers.py", line 205, in get_frame
+    result[in_time] = self.buffer[indices]
+IndexError: index -53859 is out of bounds for axis 0 with size 46142
+                                                        
+/home/ubuntu/cybercop/video_20251104/abnormal/0037.mp4
+                                                        
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.95,
+  "risk": "high",
+  "evidence": ["guaranteed or outsized returns", "direct request for payment/deposit/transfer or personal data/credentials"],
+  "explanation": "The video contains strong scam indicators such as guaranteed profit and external contact through a QR code, which are clear signs of fraudulent intent. These elements suggest high risk."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0002.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.92,
+  "risk": "high",
+  "evidence": ["guaranteed or outsized returns/profits", "external contact/funnel"],
+  "explanation": "The video contains strong signals of guaranteed profits and mentions using an app, which are common indicators of scams. The presence of a direct call to action through the smartphone image further supports this classification."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0030.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.75,
+  "risk": "low",
+  "evidence": ["전천조 고백 나는 사기꾼", "별 걸 다 했어네 진짜"],
+  "explanation": "The video shows a person explaining something in front of a whiteboard, with text indicating it is about someone making grand confessions and promises. The content appears to be educational or informative rather than promotional or soliciting money, suggesting normal behavior without strong scam indicators."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0008.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.35,
+  "risk": "low",
+  "evidence": ["classroom setting", "group activity"],
+  "explanation": "The video shows a classroom-like environment with people engaged in an interactive group activity, likely educational or training-related. There are no explicit promises of profit, direct requests for payment, or external contact funnels present."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0026.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.92,
+  "risk": "high",
+  "evidence": ["柏林市長", "特別部隊"],
+  "explanation": "The conversation includes references to a special unit and a former prosecutor, which are often used in scams involving law enforcement or legal threats. The mention of these terms suggests an attempt to create urgency or fear, typical of scam tactics."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0032.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.92,
+  "risk": "high",
+  "evidence": ["guaranteed returns", "external contact"],
+  "explanation": "The video contains strong indicators of a scam, such as guaranteed high returns and an external contact method (Telegram link). These elements suggest fraudulent intent, leading to a classification with a high risk level."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0000.mp4
+
+[MiniCPM] output: {
+  "is_scam": false,
+  "confidence": 0.35,
+  "risk": "low",
+  "evidence": ["고객님께서 주문하신 남성 패딩 배송전实时사입니다", "예쁜 패딩 필요하신 분们 물어주시면"],
+  "explanation": "The video description mentions a customer's order and offers to check various designs, which is typical for product promotion or sales. There are no strong indicators of scam such as guaranteed profits, direct requests for personal data, or external contact methods."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0009.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.92,
+  "risk": "high",
+  "evidence": ["AI-generated doctor", "fake advertisement"],
+  "explanation": "The video features AI-generated images of a 'doctor' and fake advertisements, indicating fraudulent intent to deceive viewers into believing in false medical endorsements."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0013.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.92,
+  "risk": "high",
+  "evidence": ["Must buy before June 6th", "VIP席 FLOOR"],
+  "explanation": "The video description includes a strong call to action with an urgent purchase deadline and mentions VIP seating, which are common tactics used in scams to create a sense of urgency and exclusivity."
+}
+/home/ubuntu/cybercop/video_20251104/abnormal/0017.mp4
+
+[MiniCPM] output: {
+  "is_scam": true,
+  "confidence": 0.85,
+  "risk": "high",
+  "evidence": ["Must buy before [date]", "Install app/site to earn"],
+  "explanation": "The description includes a 'must buy' statement with an urgent deadline and promises rewards for installing an application or site, which are strong indicators of a scam. These elements suggest fraudulent intent, leading to a high-risk classification."
+}
