@@ -1,0 +1,2 @@
+# Ignore all configuration.json files recursively
+**/configuration.json
