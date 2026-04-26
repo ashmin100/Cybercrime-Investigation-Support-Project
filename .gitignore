@@ -1,6 +1,0 @@
-# Ignore all configuration.json files recursively
-**/configuration.json
-
-# Ignore model files
-*.pt
-*.pth
